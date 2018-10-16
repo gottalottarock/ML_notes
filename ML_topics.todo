@@ -1,0 +1,52 @@
+Preprocessing:
+  ☐ Preprocessing Nans
+  ☐ Preprocessing NLP
+  ☐
+Basic:
+ ☐ Бустинг
+ ☐ Бэггинг
+   ✔ ODS https://habr.com/company/ods/blog/324402/ @done (18-10-14 22:20)
+Классификация моделий:
+  ☐ Линейные
+  ☐ Метрические
+Supervised Learning:
+  ✔ Линейные модели                   ./Notes/ML_Lin_Models.note/ @done (18-10-16 16:36)
+    ✔ ODS https://habr.com/company/ods/blog/323890/ @done (18-10-12 20:56)
+    ✔ Linear Regression @done (18-10-16 16:35)
+    ✔ Logistic Regression @done (18-10-16 16:35)
+  ☐ SVM
+  ☐ Trees                                ./Notes/ML_Trees.note/
+    ✔ ODS https://habr.com/commandmpany/ods/blog/322534/ @done (18-10-12 19:11)
+    ✔ Решающее дерево @done (18-10-16 16:37)
+    ✔ RandomForest @done (18-10-16 16:37)
+      ✔ https://dyakonov.org/2016/11/14/ @done (18-10-14 23:51)
+    ☐ GradientBoosting
+  ☐ Regularization
+    ✔ метод регулязации Тихонова @done (18-10-16 16:37)
+       - См Linear Regression
+  ☐ Bias vs Variance tradeoff 
+  ✔ KNN                                    ./Notes/ML_Trees.note/ @done (18-10-16 16:35)
+     ✔ В тетради про окно Парсена и потенциальные функции @done (18-10-16 16:35)
+     ✔ ODS https://habr.com/company/ods/blog/322534/ @done (18-10-12 19:39)
+Unsupervised Learning:
+  ☐ Dimensionality Reduction
+  ☐ PCA
+  ☐ Выявление Аномалий
+  ☐ Gausian Mixture(Bayesian)
+Clustering:
+  ☐ K-means
+  ☐ Extraction-Minimization
+  ☐ Hierarchial
+  ☐ 
+NLP:
+  ☐ Статистические модели
+  ☐ Синтаксические модели
+  ☐ Ngrams
+  ☐ Embeddings
+    ☐ TfIdf
+    ☐ Word2Vec, Glove...
+  ☐ Extraction
+Интерпретация:
+  ☐ !!! https://christophm.github.io/interpretable-ml-book
+
+
